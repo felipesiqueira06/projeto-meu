@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@media screen and (max-width:768px){
+
+    body{
+        background-color: black;
+        color: whitesmoke;
+    }
+
+    h1{
+        text-align: center;
+    }
+}
